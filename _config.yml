@@ -6,7 +6,7 @@ url: Sahana84.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Test APIDoc Site
+topnav_title: Test API Doc Site
 # this appears on the top navigation bar next to the home button
 
 site_title: API Documentation
@@ -15,7 +15,7 @@ site_title: API Documentation
 company_name: Keysight
 # this appears in the footer
 
-github_editme_path: Sahana84/mydoctheme/gh-pages/
+github_editme_path: 
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
