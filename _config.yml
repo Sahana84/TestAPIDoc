@@ -1,7 +1,7 @@
 repository: Sahana84/mydoctheme
 
 url: Sahana84.github.io
-   baseurl: /mydoctheme
+   baseurl: Sahana84/mydoctheme
    
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
