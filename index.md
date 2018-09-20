@@ -6,9 +6,10 @@ sidebar: mydoc_sidebar
 permalink: index.html
 summary: API documentation using GitHub!
 ---
+## Products
 
 <div> 
-    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:37%;" >    
+    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:25%;" >    
 </div>
 
 ## API documentation project
