@@ -14,8 +14,8 @@ summary: API documentation using GitHub!
 
 ## API documentation project
 
-### This is a test site for API documentation using GitHub and GitHub Pages. 
-    The tutorials explain some of the IxNetwork features with configuration detail and sample scripts.
+#### This is a test site for API documentation using GitHub and GitHub Pages. 
+#### The tutorials explain some of the IxNetwork features with configuration detail and sample scripts.
     
 ---
 
@@ -25,7 +25,7 @@ summary: API documentation using GitHub!
 
 ## Black Beauty
 
-### This is a test content with Markdown. 
-    Enjoy some light reading with fragments from the eternal story *Black Beauty*. 
+#### This is a test content with Markdown. 
+#### Enjoy some light reading with fragments from the eternal story *Black Beauty*. 
 
 {% include links.html %}
