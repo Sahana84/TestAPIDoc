@@ -10,6 +10,10 @@ entries:
     output: web, pdf
     folderitems:
     
+    - title: About
+      url: /blackbeauty_about.html
+      output: web, pdf
+    
     - title: Chapter1
       url: /blackbeauty_chapter1.html
       output: web, pdf
