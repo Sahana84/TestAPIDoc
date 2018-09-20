@@ -20,7 +20,7 @@ summary: API documentation using GitHub!
 ---
 
 <div> 
-    <img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:25%;" >    
+    <img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:20%;" >    
 </div>
 
 ## Black Beauty
