@@ -1,0 +1,31 @@
+ # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Black Beauty
+  version: 1.0
+  folders:  
+      
+  - title: Content
+    output: web, pdf
+    folderitems:
+    
+    - title: Chapter1
+      url: /blackbeauty_chapter1.html
+      output: web, pdf
+      
+    - title: Chapter2
+      url: /blackbeauty_chapter2.html
+      output: web, pdf
+      
+    - title: Chapter3
+      url: /blackbeauty_chapter3.html
+      output: web, pdf
+      
+    - title: Chapter4
+      url: /blackbeauty_chapter14.html
+      output: web, pdf
+      
+    - title: Chapter5
+      url: /blackbeauty_chapter5.html
+      output: web, pdf         
