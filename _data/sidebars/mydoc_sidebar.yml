@@ -43,7 +43,27 @@ entries:
     - title: Support
       url: /mydoc_support.html
       output: web, pdf
-
+      
+  - title: Tutorials
+    output: web, pdf
+    folderitems:
+    
+    - title: API Guide Overview
+      url: /mydoc_API_overview.html
+      output: web, pdf
+      
+    - title: Tutorial1
+      url: /mydoc_tutorial1.html
+      output: web, pdf
+      
+    - title: Tutorial2
+      url: /mydoc_tutorial2.html
+      output: web, pdf
+      
+    - title: Tutorial3
+      url: /mydoc_tutorial3.html
+      output: web, pdf
+    
   - title: Release Notes
     output: web, pdf
     folderitems:
