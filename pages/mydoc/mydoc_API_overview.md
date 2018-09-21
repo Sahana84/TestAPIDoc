@@ -16,3 +16,11 @@ folder: mydoc
 ## This is a test API documentation project using GitHub Pages and Jekyll.
 
 #### The tutorials explain some of the IxNetwork feature configurations with sample scripts.
+
+### For tutorials visit,
+	
+[Tutorial 1] (https://sahana84.github.io/mydoctheme/mydoc_tutorial1.html)
+	     
+[Tutorial 2] (https://sahana84.github.io/mydoctheme/mydoc_tutorial2.html)
+	     
+[Tutorial 3] (https://sahana84.github.io/mydoctheme/mydoc_tutorial3.html)
