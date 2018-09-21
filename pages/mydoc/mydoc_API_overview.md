@@ -10,7 +10,7 @@ folder: mydoc
 ---
 
 <div> 
-    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:30%;" >    
+    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:20%;" >    
 </div>
 
 ## This is a test API documentation project using GitHub Pages and Jekyll.
