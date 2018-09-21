@@ -2,7 +2,7 @@
 title: API Documentation Overview
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: September 20, 2018
-tags:[getting_started]
+tags: [getting_started]
 summary: "This is a test page!"
 sidebar: mydoc_sidebar
 permalink: mydoc_API_overview.html
