@@ -19,5 +19,7 @@ folder: mydoc
 
 #### For tutorials visit,
      * [Tutorial 1](https://sahana84.github.io/mydoctheme/mydoc_tutorial1.html)
+     
      * [Tutorial 2](https://sahana84.github.io/mydoctheme/mydoc_tutorial2.html)
+     
      * [Tutorial 3](https://sahana84.github.io/mydoctheme/mydoc_tutorial3.html)
