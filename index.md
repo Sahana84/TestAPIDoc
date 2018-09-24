@@ -24,9 +24,4 @@ summary: API documentation using GitHub!
 #### Enjoy some light reading with fragments from the eternal story *Black Beauty*. 
 
 {% include links.html %}
-{% for page in site.pages %}
-  <h2>{{ page.title }}</h2>
-  <time>{{ page.date | date: "%b %-d, %Y" }}</time>
-  <span>{{ page.content | reading_time }}</span>
-  <div class="entry">{{ page.content }}</div>
-{% endfor %}
+
