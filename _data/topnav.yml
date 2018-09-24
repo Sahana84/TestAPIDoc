@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/Sahana84/mydoctheme
+      external_url: https://github.com/Sahana84/TestAPIDoc
     - title: News
       url: /news
 
