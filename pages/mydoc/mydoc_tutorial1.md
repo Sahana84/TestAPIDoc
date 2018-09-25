@@ -1,5 +1,6 @@
 ---
 title: Tutorial 1
+layout: default
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: September 20, 2018
 tags: [Overview]
