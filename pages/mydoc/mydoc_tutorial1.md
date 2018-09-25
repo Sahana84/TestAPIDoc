@@ -129,8 +129,6 @@ puts "Starting All Protocols"
 	after 30000
 ```
 
-{% include read_time.html %}
-
 <script src="https://utteranc.es/client.js"	
 		repo="Sahana84/IxNetworkAPIDoc"
 		branch="master/gh-pages"
