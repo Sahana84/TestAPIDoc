@@ -36,6 +36,4 @@ The treatment of animals, their welfare and the conditions in which they're kept
 		branch="master"
 		issue-term="url"
 		async>
-		</script>
-		
-{{ page.content | reading_time }}
+		</script>	
