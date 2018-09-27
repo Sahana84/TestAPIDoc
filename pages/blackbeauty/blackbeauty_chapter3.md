@@ -129,8 +129,8 @@ may drive him; it is all a chance for us; but still I say, do your best
 wherever it is, and keep up your good name."
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/blackbeauty"
-		branch="master"
+		repo="Sahana84/TestAPIDoc"
+		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>	

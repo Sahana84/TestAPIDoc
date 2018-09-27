@@ -76,8 +76,8 @@ Daniel, the man who looked after the horses, was just as gentle as our
 master; so we were well off.
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/blackbeauty"
-		branch="master"
+		repo="Sahana84/TestAPIDoc"
+		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>	

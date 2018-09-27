@@ -119,8 +119,8 @@ knew; but 'twas all for one little hare.
 
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/blackbeauty"
-		branch="master"
+		repo="Sahana84/TestAPIDoc"
+		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>	
