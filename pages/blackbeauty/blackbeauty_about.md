@@ -32,8 +32,8 @@ The treatment of animals, their welfare and the conditions in which they're kept
 >                — Black Beauty, Chapter 13, last paragraph.
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/blackbeauty"
-		branch="master"
+		repo="Sahana84/TestAPIDoc"
+		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>	

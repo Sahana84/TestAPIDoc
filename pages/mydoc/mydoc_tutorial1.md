@@ -1,5 +1,6 @@
 ---
 title: Tutorial 1
+layout: page
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: September 20, 2018
 tags: [Overview]
@@ -130,10 +131,9 @@ puts "Starting All Protocols"
 ```
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/IxNetworkAPIDoc"
+		repo="Sahana84/TestAPIDoc"
 		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>
 		
-

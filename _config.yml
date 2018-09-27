@@ -1,4 +1,4 @@
-repository: Sahana84/mydoctheme
+repository: Sahana84/TestAPIDoc
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -103,13 +103,17 @@ defaults:
 sidebars:
 - home_sidebar
 - mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
+- blackbeauty_sidebar
 - other
 
+reading_time:
+  second_plural: "sec"    # default: seconds
+  minute_singular: "min"  # default: minute
+  minute_plural: "min"    # default: minutes
+  
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
 url: https://Sahana84.github.io
-baseurl: /mydoctheme
+baseurl: /TestAPIDoc
