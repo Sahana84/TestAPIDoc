@@ -123,8 +123,8 @@ ride him about in the orchard, and have fine games with him and their
 little dog Frisky.
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/blackbeauty"
-		branch="master"
+		repo="Sahana84/TestAPIDoc"
+		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>	
