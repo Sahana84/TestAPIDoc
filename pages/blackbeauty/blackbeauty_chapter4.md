@@ -95,8 +95,8 @@ such a kind boy as James is, so that it is all Ginger's own fault that
 she did not stay in that box."
 
 <script src="https://utteranc.es/client.js"	
-		repo="Sahana84/blackbeauty"
-		branch="master"
+		repo="Sahana84/TestAPIDoc"
+		branch="master/gh-pages"
 		issue-term="url"
 		async>
 		</script>	
