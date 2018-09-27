@@ -15,7 +15,7 @@ summary: API documentation using GitHub!
 
 #### This is a test site for API documentation using GitHub and GitHub Pages. 
 #### The tutorials explain some of the IxNetwork features with configuration detail and sample scripts.    
-=======
+
 
 
 <div> 
