@@ -3,7 +3,7 @@ url: "http://127.0.0.1:4010"
 baseurl: "/apidoc-pdf"
 port: 4010
 output: pdf
-product: API Documentation
+product: mydoc
 print_title: API Documentation with GitHub
 print_subtitle: version 1.0
 output: pdf

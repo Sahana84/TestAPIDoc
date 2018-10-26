@@ -1,5 +1,6 @@
 ---
 title: "API Documentation with GitHub"
+type: first_page
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar

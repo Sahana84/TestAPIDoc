@@ -3,7 +3,7 @@ url: "http://127.0.0.1:4011"
 baseurl: "/blackbeauty-pdf"
 port: 4011
 output: pdf
-product: Black Beauty
+product: blackbeauty
 print_title: Black Beauty
 print_subtitle: version 1.0
 output: pdf
