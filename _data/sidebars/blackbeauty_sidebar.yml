@@ -8,7 +8,17 @@ entries:
       
   - title: Content
     output: web, pdf
-    folderitems:
+    type: frontmatter
+    folderitems:    
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+      
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
     
     - title: About
       url: /blackbeauty_about.html

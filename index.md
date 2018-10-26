@@ -13,6 +13,7 @@ summary: API documentation using GitHub!
 ### [API documentation project](https://sahana84.github.io/TestAPIDoc/mydoc_API_overview.html)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## [API documentation project](https://sahana84.github.io/mydoctheme/mydoc_API_overview.html)
 
 ### This is a test site for API documentation using GitHub and GitHub Pages. 
@@ -23,11 +24,20 @@ summary: API documentation using GitHub!
 #### The tutorials explain some of the IxNetwork features with configuration detail and sample scripts.    
 >>>>>>> 87718da6cc30315ebe578e7c4185301d131db4b6
 ---
+=======
+
+#### This is a test site for API documentation using GitHub and GitHub Pages. 
+#### The tutorials explain some of the IxNetwork features with configuration detail and sample scripts.    
+
+
+
+>>>>>>> 11985dc82f866c203134ef336bec3c34f074826d
 <div> 
     <img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:15%;" >    
 </div>
 ### [Black Beauty](https://sahana84.github.io/TestAPIDoc/blackbeauty_about.html)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## [Black Beauty](https://sahana84.github.io/mydoctheme/blackbeauty_about.html)
 
@@ -37,6 +47,12 @@ summary: API documentation using GitHub!
 #### This is a test content with Markdown. 
 #### Enjoy some light reading with fragments from the eternal story *Black Beauty*. 
 >>>>>>> 87718da6cc30315ebe578e7c4185301d131db4b6
+=======
+
+#### This is a test content with Markdown. 
+#### Enjoy some light reading with fragments from the eternal story *Black Beauty*. 
+
+>>>>>>> 11985dc82f866c203134ef336bec3c34f074826d
 
 {% include links.html %}
 
